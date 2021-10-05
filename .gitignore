@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+
+Auth/
+Domain/
+LifeApplication.java
+resources/
+mvnw
+mvnw.cmd
+pom.xml
